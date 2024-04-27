@@ -1,0 +1,6 @@
+muhit yaratish
+1. python3 -m venv proekt  -  "proekt yaratish"
+2. source proekt2/bin/activate  - ""
+3. django-admin startproject school .  -  "admin proekt"
+4. python3 manage.py runserver  -  " ishga tushirish"
+5. python3 manage.py startapp home   -  " app yaratish"
